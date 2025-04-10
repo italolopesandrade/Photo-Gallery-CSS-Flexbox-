@@ -1,4 +1,3 @@
-https://photo-gallery-css-flexbox.vercel.app/
 <a href="https://photo-gallery-css-flexbox.vercel.app/">
     <img src="https://img.shields.io/badge/CLICK HERE FOR SEE DEMO-at Vercel.app-238636?style=flat-square&logo=github" alt="Button"/>
 </a>
